@@ -1,8 +1,8 @@
 /*
-Description:
-Input:
-Output:
-Usage: 
+Description:a program that counts from 1 to a given integer, printing out fizz if the number is divisble by 3, buzz if it is divisible by 5, and fizzbuzz if it is divisible by both 3 and 5.
+Input: fizzbuzz
+Output: integer
+Usage: node 1-fizzbuzz <integer>
 */
 
 // get input using getargs
